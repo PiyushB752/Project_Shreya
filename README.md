@@ -1,6 +1,6 @@
 # Project_Shreya - Learning Application
 
-This is a leaning application which consist of 3 activities. These activities are - 
+This is a learning application which consist of 3 activities. These activities are - 
 1. Fill in the Blank.
 2. Matching the Image.
 3. Building a sentence.
